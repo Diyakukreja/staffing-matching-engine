@@ -1,0 +1,302 @@
+[
+  {
+    "locality": "Koramangala",
+    "latitude": 12.9352,
+    "longitude": 77.6245
+  },
+  {
+    "locality": "HSR Layout",
+    "latitude": 12.9116,
+    "longitude": 77.6474
+  },
+  {
+    "locality": "BTM Layout",
+    "latitude": 12.9166,
+    "longitude": 77.6101
+  },
+  {
+    "locality": "Indiranagar",
+    "latitude": 12.9784,
+    "longitude": 77.6408
+  },
+  {
+    "locality": "Whitefield",
+    "latitude": 12.9698,
+    "longitude": 77.75
+  },
+  {
+    "locality": "Marathahalli",
+    "latitude": 12.9591,
+    "longitude": 77.6974
+  },
+  {
+    "locality": "Bellandur",
+    "latitude": 12.9304,
+    "longitude": 77.6784
+  },
+  {
+    "locality": "Sarjapur Road",
+    "latitude": 12.901,
+    "longitude": 77.686
+  },
+  {
+    "locality": "Electronic City",
+    "latitude": 12.8452,
+    "longitude": 77.6602
+  },
+  {
+    "locality": "Bommanahalli",
+    "latitude": 12.903,
+    "longitude": 77.6242
+  },
+  {
+    "locality": "Bommasandra",
+    "latitude": 12.8166,
+    "longitude": 77.6906
+  },
+  {
+    "locality": "Jayanagar",
+    "latitude": 12.9308,
+    "longitude": 77.5838
+  },
+  {
+    "locality": "JP Nagar",
+    "latitude": 12.9063,
+    "longitude": 77.5857
+  },
+  {
+    "locality": "Banashankari",
+    "latitude": 12.9255,
+    "longitude": 77.5468
+  },
+  {
+    "locality": "Basavanagudi",
+    "latitude": 12.9422,
+    "longitude": 77.5738
+  },
+  {
+    "locality": "Rajajinagar",
+    "latitude": 12.9982,
+    "longitude": 77.553
+  },
+  {
+    "locality": "Malleshwaram",
+    "latitude": 13.0031,
+    "longitude": 77.5643
+  },
+  {
+    "locality": "Yeshwanthpur",
+    "latitude": 13.028,
+    "longitude": 77.554
+  },
+  {
+    "locality": "Peenya",
+    "latitude": 13.0285,
+    "longitude": 77.5197
+  },
+  {
+    "locality": "Hebbal",
+    "latitude": 13.0358,
+    "longitude": 77.597
+  },
+  {
+    "locality": "Yelahanka",
+    "latitude": 13.1007,
+    "longitude": 77.5963
+  },
+  {
+    "locality": "Devanahalli",
+    "latitude": 13.2468,
+    "longitude": 77.712
+  },
+  {
+    "locality": "KR Puram",
+    "latitude": 13.0075,
+    "longitude": 77.6959
+  },
+  {
+    "locality": "Mahadevapura",
+    "latitude": 12.988,
+    "longitude": 77.6895
+  },
+  {
+    "locality": "Hoodi",
+    "latitude": 12.992,
+    "longitude": 77.716
+  },
+  {
+    "locality": "Brookefield",
+    "latitude": 12.965,
+    "longitude": 77.718
+  },
+  {
+    "locality": "Kadugodi",
+    "latitude": 12.995,
+    "longitude": 77.761
+  },
+  {
+    "locality": "Varthur",
+    "latitude": 12.9389,
+    "longitude": 77.7412
+  },
+  {
+    "locality": "Domlur",
+    "latitude": 12.9609,
+    "longitude": 77.6387
+  },
+  {
+    "locality": "Ejipura",
+    "latitude": 12.945,
+    "longitude": 77.627
+  },
+  {
+    "locality": "Shivajinagar",
+    "latitude": 12.9857,
+    "longitude": 77.6057
+  },
+  {
+    "locality": "Majestic",
+    "latitude": 12.9767,
+    "longitude": 77.5713
+  },
+  {
+    "locality": "Vijayanagar",
+    "latitude": 12.9719,
+    "longitude": 77.535
+  },
+  {
+    "locality": "Kengeri",
+    "latitude": 12.9146,
+    "longitude": 77.4849
+  },
+  {
+    "locality": "RR Nagar",
+    "latitude": 12.926,
+    "longitude": 77.519
+  },
+  {
+    "locality": "Nagarbhavi",
+    "latitude": 12.96,
+    "longitude": 77.51
+  },
+  {
+    "locality": "Banaswadi",
+    "latitude": 13.0104,
+    "longitude": 77.648
+  },
+  {
+    "locality": "Kalyan Nagar",
+    "latitude": 13.028,
+    "longitude": 77.64
+  },
+  {
+    "locality": "HBR Layout",
+    "latitude": 13.0358,
+    "longitude": 77.632
+  },
+  {
+    "locality": "Kammanahalli",
+    "latitude": 13.0159,
+    "longitude": 77.6379
+  },
+  {
+    "locality": "RT Nagar",
+    "latitude": 13.021,
+    "longitude": 77.595
+  },
+  {
+    "locality": "Frazer Town",
+    "latitude": 12.998,
+    "longitude": 77.613
+  },
+  {
+    "locality": "Ulsoor",
+    "latitude": 12.9817,
+    "longitude": 77.6286
+  },
+  {
+    "locality": "CV Raman Nagar",
+    "latitude": 12.985,
+    "longitude": 77.663
+  },
+  {
+    "locality": "Old Airport Road",
+    "latitude": 12.96,
+    "longitude": 77.665
+  },
+  {
+    "locality": "Kundalahalli",
+    "latitude": 12.956,
+    "longitude": 77.715
+  },
+  {
+    "locality": "Begur",
+    "latitude": 12.877,
+    "longitude": 77.637
+  },
+  {
+    "locality": "Hulimavu",
+    "latitude": 12.877,
+    "longitude": 77.601
+  },
+  {
+    "locality": "Bannerghatta Road",
+    "latitude": 12.888,
+    "longitude": 77.597
+  },
+  {
+    "locality": "Uttarahalli",
+    "latitude": 12.907,
+    "longitude": 77.545
+  },
+  {
+    "locality": "Chandapura",
+    "latitude": 12.801,
+    "longitude": 77.704
+  },
+  {
+    "locality": "Attibele",
+    "latitude": 12.779,
+    "longitude": 77.77
+  },
+  {
+    "locality": "Hoskote",
+    "latitude": 13.0707,
+    "longitude": 77.798
+  },
+  {
+    "locality": "Jalahalli",
+    "latitude": 13.052,
+    "longitude": 77.544
+  },
+  {
+    "locality": "Dasarahalli",
+    "latitude": 13.045,
+    "longitude": 77.513
+  },
+  {
+    "locality": "Nelamangala",
+    "latitude": 13.099,
+    "longitude": 77.393
+  },
+  {
+    "locality": "Thanisandra",
+    "latitude": 13.058,
+    "longitude": 77.633
+  },
+  {
+    "locality": "Hennur",
+    "latitude": 13.035,
+    "longitude": 77.644
+  },
+  {
+    "locality": "Ramamurthy Nagar",
+    "latitude": 13.016,
+    "longitude": 77.677
+  },
+  {
+    "locality": "Singasandra",
+    "latitude": 12.885,
+    "longitude": 77.65
+  }
+]

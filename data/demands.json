@@ -1,0 +1,167 @@
+[
+  {
+    "id": "D01",
+    "employer": "NovaMart Fulfilment",
+    "role": "Warehouse Picker",
+    "site_locality": "Whitefield",
+    "headcount": 12,
+    "monthly_pay": 19000,
+    "shift": "morning",
+    "start_date": "2026-11-23",
+    "min_education": "10th"
+  },
+  {
+    "id": "D02",
+    "employer": "NovaMart Fulfilment",
+    "role": "Packer",
+    "site_locality": "Whitefield Main Road",
+    "headcount": 6,
+    "monthly_pay": 17000,
+    "shift": "evening",
+    "start_date": "2026-11-23",
+    "min_education": "below_10"
+  },
+  {
+    "id": "D03",
+    "employer": "QuickDrop Logistics",
+    "role": "Delivery Rider",
+    "site_locality": "Koramangala",
+    "headcount": 10,
+    "monthly_pay": 22000,
+    "shift": "evening",
+    "start_date": "2026-11-19",
+    "min_education": "10th"
+  },
+  {
+    "id": "D04",
+    "employer": "QuickDrop Logistics",
+    "role": "Delivery Rider",
+    "site_locality": "HSR Layout",
+    "headcount": 8,
+    "monthly_pay": 21500,
+    "shift": "morning",
+    "start_date": "2026-11-19",
+    "min_education": "10th"
+  },
+  {
+    "id": "D05",
+    "employer": "SteelLine Auto Parts",
+    "role": "Forklift Operator",
+    "site_locality": "Bommasandra",
+    "headcount": 4,
+    "monthly_pay": 24000,
+    "shift": "morning",
+    "start_date": "2026-11-20",
+    "min_education": "iti"
+  },
+  {
+    "id": "D06",
+    "employer": "Southgate Cold Storage",
+    "role": "Forklift Operator",
+    "site_locality": "Electronic City",
+    "headcount": 4,
+    "monthly_pay": 23500,
+    "shift": "morning",
+    "start_date": "2026-11-20",
+    "min_education": "iti"
+  },
+  {
+    "id": "D07",
+    "employer": "Brewline Cafes",
+    "role": "Barista",
+    "site_locality": "Indiranagar",
+    "headcount": 5,
+    "monthly_pay": 18500,
+    "shift": "morning",
+    "start_date": "2026-11-21",
+    "min_education": "12th"
+  },
+  {
+    "id": "D08",
+    "employer": "Brewline Cafes",
+    "role": "Barista",
+    "site_locality": "Electronic City",
+    "headcount": 3,
+    "monthly_pay": 18000,
+    "shift": "evening",
+    "start_date": "2026-11-21",
+    "min_education": "12th"
+  },
+  {
+    "id": "D09",
+    "employer": "Aerogate Facilities",
+    "role": "Security Guard",
+    "site_locality": "Devanahalli",
+    "headcount": 8,
+    "monthly_pay": 13000,
+    "shift": "night",
+    "start_date": "2026-11-24",
+    "min_education": "10th"
+  },
+  {
+    "id": "D10",
+    "employer": "Orchid Tech Park",
+    "role": "Security Guard",
+    "site_locality": "Marathahalli",
+    "headcount": 6,
+    "monthly_pay": 19500,
+    "shift": "night",
+    "start_date": "2026-11-18",
+    "min_education": "10th"
+  },
+  {
+    "id": "D11",
+    "employer": "Orchid Tech Park",
+    "role": "Housekeeping",
+    "site_locality": "Marathahalli",
+    "headcount": 9,
+    "monthly_pay": 15500,
+    "shift": "morning",
+    "start_date": "2026-11-18",
+    "min_education": "below_10"
+  },
+  {
+    "id": "D12",
+    "employer": "Lakeview Hospital",
+    "role": "Housekeeping",
+    "site_locality": "JP Nagar",
+    "headcount": 7,
+    "monthly_pay": 16000,
+    "shift": "evening",
+    "start_date": "2026-11-25",
+    "min_education": "below_10"
+  },
+  {
+    "id": "D13",
+    "employer": "Peenya Pack Works",
+    "role": "Packer",
+    "site_locality": "Peenya Industrial Area",
+    "headcount": 10,
+    "monthly_pay": 16500,
+    "shift": "morning",
+    "start_date": "2026-10-05",
+    "min_education": "below_10"
+  },
+  {
+    "id": "D14",
+    "employer": "UrbanCart Dark Store",
+    "role": "Picker/Packer",
+    "site_locality": "BTM",
+    "headcount": 6,
+    "monthly_pay": 18000,
+    "shift": "night",
+    "start_date": "2026-11-22",
+    "min_education": "10th"
+  },
+  {
+    "id": "D15",
+    "employer": "UrbanCart Dark Store",
+    "role": "Warehouse Picker",
+    "site_locality": "Bellandur",
+    "headcount": 0,
+    "monthly_pay": 18500,
+    "shift": "morning",
+    "start_date": "2026-11-22",
+    "min_education": "10th"
+  }
+]

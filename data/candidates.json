@@ -1,0 +1,3838 @@
+[
+  {
+    "id": "C001",
+    "name": "Raghu Chavan",
+    "phone": "7075767327",
+    "home_locality": "Kalyan Nagar",
+    "past_roles": [
+      {
+        "title": "Cleaner",
+        "months": 47
+      }
+    ],
+    "expected_monthly_pay": 15500,
+    "shifts_available": [
+      "evening",
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C002",
+    "name": "Tarun Zaidi",
+    "phone": "7063613312",
+    "home_locality": "HBR Layout",
+    "past_roles": [
+      {
+        "title": "Picker/Packer",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": "15.5k",
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C003",
+    "name": "Yamuna Yadav",
+    "phone": "7053837345",
+    "home_locality": "Varthur",
+    "past_roles": [
+      {
+        "title": "Delivery Rider",
+        "months": 29
+      }
+    ],
+    "expected_monthly_pay": 22000,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-20",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C004",
+    "name": "Raghu Urs",
+    "phone": "7045843496",
+    "home_locality": "Old Airport Road",
+    "past_roles": [
+      {
+        "title": "Bike delivery executive",
+        "months": 21
+      },
+      {
+        "title": "Packaging staff",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": "18500",
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C005",
+    "name": "Gopal Nair",
+    "phone": "7025817033",
+    "home_locality": "Hoodi",
+    "past_roles": [
+      {
+        "title": "Warehouse Picker",
+        "months": 4
+      }
+    ],
+    "expected_monthly_pay": "19,000",
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-21",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C006",
+    "name": "Bhavna Alva",
+    "phone": "7085017167",
+    "home_locality": "Domlur",
+    "past_roles": [
+      {
+        "title": "Bike delivery executive",
+        "months": 34
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "PUC",
+    "status": "deployed"
+  },
+  {
+    "id": "C007",
+    "name": "Chetan Kamath",
+    "phone": "7078758900",
+    "home_locality": "JP Nagar",
+    "past_roles": [
+      {
+        "title": "Packer",
+        "months": 29
+      }
+    ],
+    "expected_monthly_pay": 15000,
+    "shifts_available": [
+      "evening",
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C008",
+    "name": "Hema Zaidi",
+    "phone": "7075663953",
+    "home_locality": "Yelahanka",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C009",
+    "name": "Divakar Rai",
+    "phone": "7011577597",
+    "home_locality": "Nagarbhavi",
+    "past_roles": [
+      {
+        "title": "Rider",
+        "months": 45
+      },
+      {
+        "title": "Warehouse Associate",
+        "months": 16
+      }
+    ],
+    "expected_monthly_pay": 19500,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "10th",
+    "status": "deployed"
+  },
+  {
+    "id": "C010",
+    "name": "Irfan Gowder",
+    "phone": "7026218891",
+    "home_locality": "Nagarbhavi",
+    "past_roles": [
+      {
+        "title": "Rider",
+        "months": 15
+      }
+    ],
+    "expected_monthly_pay": "18,500",
+    "shifts_available": [
+      "morning",
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C011",
+    "name": "Vasanth Chavan",
+    "phone": "7083784068",
+    "home_locality": "Mahadevapura",
+    "past_roles": [
+      {
+        "title": "Godown helper",
+        "months": 30
+      }
+    ],
+    "expected_monthly_pay": 15500,
+    "shifts_available": [
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C012",
+    "name": "Charan Salian",
+    "phone": "7018057276",
+    "home_locality": "Begur",
+    "past_roles": [
+      {
+        "title": "Delivery Rider",
+        "months": 8
+      }
+    ],
+    "expected_monthly_pay": "19,000",
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "below_10",
+    "status": "available"
+  },
+  {
+    "id": "C013",
+    "name": "Eshwar Yadav",
+    "phone": "7074383227",
+    "home_locality": "Varthur",
+    "past_roles": [
+      {
+        "title": "HK Attendant",
+        "months": 44
+      }
+    ],
+    "expected_monthly_pay": 16500,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C014",
+    "name": "Jaya Yadav",
+    "phone": "7059330615",
+    "home_locality": "Yeshwantpur",
+    "past_roles": [
+      {
+        "title": "Packing helper",
+        "months": 19
+      }
+    ],
+    "expected_monthly_pay": 16000,
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-22",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C015",
+    "name": "Aarav Desai",
+    "phone": "7094137981",
+    "home_locality": "Sarjapur Road",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 21
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "ITI",
+    "status": "available"
+  },
+  {
+    "id": "C016",
+    "name": "Bhavna Thomas",
+    "phone": "7024275967",
+    "home_locality": "Banaswadi",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C017",
+    "name": "Manoj Salian",
+    "phone": "7050078202",
+    "home_locality": "Mahadevapura",
+    "past_roles": [
+      {
+        "title": "Packaging staff",
+        "months": 15
+      }
+    ],
+    "expected_monthly_pay": 16500,
+    "shifts_available": [
+      "night",
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C018",
+    "name": "Wasim Gowder",
+    "phone": "7022830213",
+    "home_locality": "Dasarahalli",
+    "past_roles": [
+      {
+        "title": "Security Guard",
+        "months": 23
+      }
+    ],
+    "expected_monthly_pay": 18000,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C019",
+    "name": "Wasim Thomas",
+    "phone": "7052101740",
+    "home_locality": "Hoodi",
+    "past_roles": [
+      {
+        "title": "Picker/Packer",
+        "months": 11
+      }
+    ],
+    "expected_monthly_pay": "17k",
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C020",
+    "name": "Farida Rai",
+    "phone": "7036371862",
+    "home_locality": "Brookefield",
+    "past_roles": [
+      {
+        "title": "Picker/Packer",
+        "months": 37
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C021",
+    "name": "Nandini Chavan",
+    "phone": "7015969880",
+    "home_locality": "Jalahalli",
+    "past_roles": [
+      {
+        "title": "Barista",
+        "months": 4
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C022",
+    "name": "Hema Thomas",
+    "phone": "7065144515",
+    "home_locality": "Indira Nagar",
+    "past_roles": [
+      {
+        "title": "Packaging staff",
+        "months": 43
+      }
+    ],
+    "expected_monthly_pay": 16500,
+    "shifts_available": [
+      "night",
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "diploma",
+    "status": "available"
+  },
+  {
+    "id": "C023",
+    "name": "Farida Urs",
+    "phone": "7097003335",
+    "home_locality": "Marathahalli Bridge",
+    "past_roles": [
+      {
+        "title": "Delivery Rider",
+        "months": 43
+      }
+    ],
+    "expected_monthly_pay": 20500,
+    "shifts_available": [
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C024",
+    "name": "Latha Urs",
+    "phone": "7038571671",
+    "home_locality": "Mahadevapura",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 23
+      },
+      {
+        "title": "Bike delivery executive",
+        "months": 15
+      }
+    ],
+    "expected_monthly_pay": "18.5k",
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-22",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C025",
+    "name": "Bhavna Vaz",
+    "phone": "7039447947",
+    "home_locality": "Hoodi",
+    "past_roles": [
+      {
+        "title": "Watchman",
+        "months": 4
+      }
+    ],
+    "expected_monthly_pay": 19000,
+    "shifts_available": [
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-27",
+    "education": "12th pass",
+    "status": "available"
+  },
+  {
+    "id": "C026",
+    "name": "Eshwar Jain",
+    "phone": "7033722079",
+    "home_locality": "Mahadevapura",
+    "past_roles": [
+      {
+        "title": "Godown helper",
+        "months": 41
+      }
+    ],
+    "expected_monthly_pay": "16,000",
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "below_10",
+    "status": "available"
+  },
+  {
+    "id": "C027",
+    "name": "Jaya Thomas",
+    "phone": "7039510600",
+    "home_locality": "Kammanahalli",
+    "past_roles": [
+      {
+        "title": "Rider",
+        "months": 45
+      }
+    ],
+    "expected_monthly_pay": 20000,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-17",
+    "education": "12th pass",
+    "status": "offer_accepted"
+  },
+  {
+    "id": "C028",
+    "name": "Pallavi Jain",
+    "phone": "7046356183",
+    "home_locality": "Yesvantpur",
+    "past_roles": [
+      {
+        "title": "Barista / Counter",
+        "months": 12
+      }
+    ],
+    "expected_monthly_pay": "18,500",
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "SSLC",
+    "status": "deployed"
+  },
+  {
+    "id": "C029",
+    "name": "Omkar Nair",
+    "phone": "7013875647",
+    "home_locality": "Bellandur",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C030",
+    "name": "Zubair Urs",
+    "phone": "7012922474",
+    "home_locality": "Mahadevapura",
+    "past_roles": [
+      {
+        "title": "House keeping staff",
+        "months": 15
+      }
+    ],
+    "expected_monthly_pay": 14500,
+    "shifts_available": [
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C031",
+    "name": "Bindu Nair",
+    "phone": "7063655345",
+    "home_locality": "Bommasandra",
+    "past_roles": [
+      {
+        "title": "Delivery Rider",
+        "months": 30
+      }
+    ],
+    "expected_monthly_pay": 18500,
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-22",
+    "education": "diploma",
+    "status": "not_reachable"
+  },
+  {
+    "id": "C032",
+    "name": "Yamuna Thomas",
+    "phone": "7054521716",
+    "home_locality": "Bommasandra",
+    "past_roles": [
+      {
+        "title": "Forklift Operator",
+        "months": 50
+      }
+    ],
+    "expected_monthly_pay": 22000,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "10th pass",
+    "status": "deployed"
+  },
+  {
+    "id": "C033",
+    "name": "Hema Chavan",
+    "phone": "7041051805",
+    "home_locality": "Varthur",
+    "past_roles": [
+      {
+        "title": "Cafe staff",
+        "months": 45
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-19",
+    "education": "diploma",
+    "status": "available"
+  },
+  {
+    "id": "C034",
+    "name": "Hari Pai",
+    "phone": "7068062135",
+    "home_locality": "Electronic City",
+    "past_roles": [
+      {
+        "title": "Forklift Operator",
+        "months": 18
+      }
+    ],
+    "expected_monthly_pay": 22500,
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C035",
+    "name": "Bhavna Yadav",
+    "phone": "7036673639",
+    "home_locality": "Mahadevapura",
+    "past_roles": [
+      {
+        "title": "Packaging staff",
+        "months": 20
+      },
+      {
+        "title": "Barista",
+        "months": 12
+      }
+    ],
+    "expected_monthly_pay": "14k",
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-17",
+    "education": "diploma",
+    "status": "available"
+  },
+  {
+    "id": "C036",
+    "name": "Ganga Desai",
+    "phone": "7021312162",
+    "home_locality": "Chandapura",
+    "past_roles": [
+      {
+        "title": "Barista / Counter",
+        "months": 42
+      },
+      {
+        "title": "Cleaner",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": "16.5k",
+    "shifts_available": [
+      "morning",
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C037",
+    "name": "Kishore Yadav",
+    "phone": "7094629829",
+    "home_locality": "BTM 2nd Stage",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C038",
+    "name": "Deepika Urs",
+    "phone": "7050811259",
+    "home_locality": "Electronic City",
+    "past_roles": [
+      {
+        "title": "Packing helper",
+        "months": 19
+      }
+    ],
+    "expected_monthly_pay": "14500",
+    "shifts_available": [
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "ITI",
+    "status": "not_reachable"
+  },
+  {
+    "id": "C039",
+    "name": "Farida Wadiyar",
+    "phone": "7037698636",
+    "home_locality": "Domlur",
+    "past_roles": [
+      {
+        "title": "Security Guard",
+        "months": 48
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-20",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C040",
+    "name": "Chetan Rai",
+    "phone": "7052954311",
+    "home_locality": "Hoodi",
+    "past_roles": [
+      {
+        "title": "Godown helper",
+        "months": 28
+      }
+    ],
+    "expected_monthly_pay": 16000,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C041",
+    "name": "Kishore Desai",
+    "phone": "7046056809",
+    "home_locality": "Bommanhalli",
+    "past_roles": [
+      {
+        "title": "Delivery Rider",
+        "months": 38
+      }
+    ],
+    "expected_monthly_pay": "20.5k",
+    "shifts_available": [
+      "evening",
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "diploma",
+    "status": "available"
+  },
+  {
+    "id": "C042",
+    "name": "Charan Bhat",
+    "phone": "7054154075",
+    "home_locality": "Bellandur",
+    "past_roles": [
+      {
+        "title": "Godown helper",
+        "months": 48
+      }
+    ],
+    "expected_monthly_pay": 16000,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-21",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C043",
+    "name": "Charan Kamath",
+    "phone": "7079349005",
+    "home_locality": "Hebbal",
+    "past_roles": [
+      {
+        "title": "Delivery Partner",
+        "months": 41
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "morning",
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C044",
+    "name": "Tarun Alva",
+    "phone": "7098159747",
+    "home_locality": "Indira Nagar",
+    "past_roles": [
+      {
+        "title": "Picker",
+        "months": 34
+      }
+    ],
+    "expected_monthly_pay": 15000,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C045",
+    "name": "Pallavi Thomas",
+    "phone": "7096631593",
+    "home_locality": "Ramamurthy Nagar",
+    "past_roles": [
+      {
+        "title": "Packaging staff",
+        "months": 36
+      }
+    ],
+    "expected_monthly_pay": 14000,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C046",
+    "name": "Irfan Desai",
+    "phone": "7087093109",
+    "home_locality": "Kalyan Nagar",
+    "past_roles": [
+      {
+        "title": "Picker",
+        "months": 30
+      }
+    ],
+    "expected_monthly_pay": 15000,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-21",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C047",
+    "name": "Divakar Chavan",
+    "phone": "7034314993",
+    "home_locality": "Varthur",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C048",
+    "name": "Farida Gowder",
+    "phone": "7079114285",
+    "home_locality": "Bellandur",
+    "past_roles": [
+      {
+        "title": "Security Guard",
+        "months": 15
+      }
+    ],
+    "expected_monthly_pay": 20000,
+    "shifts_available": [
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "ITI",
+    "status": "available"
+  },
+  {
+    "id": "C049",
+    "name": "Divakar Nair",
+    "phone": "7056990221",
+    "home_locality": "Hebbal",
+    "past_roles": [
+      {
+        "title": "Godown helper",
+        "months": 1
+      },
+      {
+        "title": "Coffee maker",
+        "months": 18
+      }
+    ],
+    "expected_monthly_pay": 19000,
+    "shifts_available": [
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C050",
+    "name": "Manoj Bhat",
+    "phone": "7056781129",
+    "home_locality": "Brookefield",
+    "past_roles": [
+      {
+        "title": "Warehouse Picker",
+        "months": 30
+      }
+    ],
+    "expected_monthly_pay": "17500",
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-30",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C051",
+    "name": "Yamuna  Wadiyar",
+    "phone": "+91 70329 21388",
+    "home_locality": "Peenya Industrial Area",
+    "past_roles": [
+      {
+        "title": "Security",
+        "months": 40
+      }
+    ],
+    "expected_monthly_pay": "17k",
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C052",
+    "name": "Raghu Chavan",
+    "phone": "7091346959",
+    "home_locality": "Devanahalli",
+    "past_roles": [
+      {
+        "title": "Security Guard",
+        "months": 10
+      }
+    ],
+    "expected_monthly_pay": 19500,
+    "shifts_available": [
+      "night",
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-30",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C053",
+    "name": "Anil Rai",
+    "phone": "7066309126",
+    "home_locality": "Indira Nagar",
+    "past_roles": [
+      {
+        "title": "Barista / Counter",
+        "months": 20
+      }
+    ],
+    "expected_monthly_pay": 15500,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C054",
+    "name": "Raghu Thomas",
+    "phone": "7080866014",
+    "home_locality": "Yesvantpur",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C055",
+    "name": "Charan Mendon",
+    "phone": "7098299835",
+    "home_locality": "White Field",
+    "past_roles": [
+      {
+        "title": "HK Attendant",
+        "months": 29
+      }
+    ],
+    "expected_monthly_pay": "14,000",
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "below_10",
+    "status": "not_reachable"
+  },
+  {
+    "id": "C056",
+    "name": "Kishore Vaz",
+    "phone": "7054351640",
+    "home_locality": "Indiranagar",
+    "past_roles": [
+      {
+        "title": "Delivery Rider",
+        "months": 33
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "evening",
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "below_10",
+    "status": "not_reachable"
+  },
+  {
+    "id": "C057",
+    "name": "Savitha Gowder",
+    "phone": "7094957985",
+    "home_locality": "Shivajinagar",
+    "past_roles": [
+      {
+        "title": "Delivery Partner",
+        "months": 5
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "evening",
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-17",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C058",
+    "name": "Chetan Wadiyar",
+    "phone": "7043846223",
+    "home_locality": "Yeshwanthpur",
+    "past_roles": [
+      {
+        "title": "Delivery Partner",
+        "months": 44
+      }
+    ],
+    "expected_monthly_pay": "Rs. 22000",
+    "shifts_available": [
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C059",
+    "name": "Irfan Quadri",
+    "phone": "7055209507",
+    "home_locality": "J P Nagar",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 23
+      }
+    ],
+    "expected_monthly_pay": "18k",
+    "shifts_available": [
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-19",
+    "education": "12th",
+    "status": "not_reachable"
+  },
+  {
+    "id": "C060",
+    "name": "Charan Thomas",
+    "phone": "7054180436",
+    "home_locality": "Hoodi",
+    "past_roles": [
+      {
+        "title": "Godown helper",
+        "months": 18
+      }
+    ],
+    "expected_monthly_pay": "17500",
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-27",
+    "education": "ITI",
+    "status": "available"
+  },
+  {
+    "id": "C061",
+    "name": "Yamuna Salian",
+    "phone": "7085373460",
+    "home_locality": "Singasandra",
+    "past_roles": [
+      {
+        "title": "Forklift Operator",
+        "months": 14
+      }
+    ],
+    "expected_monthly_pay": 21000,
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C062",
+    "name": "Tarun Nair",
+    "phone": "7049388796",
+    "home_locality": "KR Puram",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 2
+      }
+    ],
+    "expected_monthly_pay": "18,500",
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "below_10",
+    "status": "available"
+  },
+  {
+    "id": "C063",
+    "name": "Savitha Desai",
+    "phone": "7027884857",
+    "home_locality": "Peenya Industrial Area",
+    "past_roles": [
+      {
+        "title": "Barista",
+        "months": 16
+      },
+      {
+        "title": "Godown helper",
+        "months": 13
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "diploma",
+    "status": "available"
+  },
+  {
+    "id": "C064",
+    "name": "Farida Chavan",
+    "phone": "7098993247",
+    "home_locality": "Kengeri",
+    "past_roles": [
+      {
+        "title": "Cleaner",
+        "months": 34
+      },
+      {
+        "title": "Delivery Rider",
+        "months": 13
+      }
+    ],
+    "expected_monthly_pay": "14k",
+    "shifts_available": [
+      "evening",
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C065",
+    "name": "Deepika Jain",
+    "phone": "7047166155",
+    "home_locality": "Uttarahalli",
+    "past_roles": [
+      {
+        "title": "Watchman",
+        "months": 45
+      }
+    ],
+    "expected_monthly_pay": 20000,
+    "shifts_available": [
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C066",
+    "name": "Kishore Thomas",
+    "phone": "7027882406",
+    "home_locality": "Varthur",
+    "past_roles": [
+      {
+        "title": "HK Attendant",
+        "months": 17
+      }
+    ],
+    "expected_monthly_pay": "13,500",
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C067",
+    "name": "TARUN PAI",
+    "phone": "07083850935",
+    "home_locality": "Yeshwanthpur",
+    "past_roles": [
+      {
+        "title": "Cafe staff",
+        "months": 48
+      },
+      {
+        "title": "Warehouse Associate",
+        "months": 2
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-19",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C068",
+    "name": "Jaya Pai",
+    "phone": "7044272441",
+    "home_locality": "Yeshwanthpur",
+    "past_roles": [
+      {
+        "title": "Cleaner",
+        "months": 36
+      },
+      {
+        "title": "Delivery Rider",
+        "months": 13
+      }
+    ],
+    "expected_monthly_pay": 15500,
+    "shifts_available": [
+      "night",
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-17",
+    "education": "ITI",
+    "status": "available"
+  },
+  {
+    "id": "C069",
+    "name": "Aarav Yadav",
+    "phone": "7043568149",
+    "home_locality": "HSR Layout",
+    "past_roles": [
+      {
+        "title": "House keeping staff",
+        "months": 38
+      }
+    ],
+    "expected_monthly_pay": 16500,
+    "shifts_available": [
+      "evening",
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C070",
+    "name": "Chetan Yadav",
+    "phone": "7095398731",
+    "home_locality": "JP Nagar",
+    "past_roles": [
+      {
+        "title": "Delivery boy",
+        "months": 6
+      },
+      {
+        "title": "Godown helper",
+        "months": 16
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-19",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C071",
+    "name": "Gopal Pai",
+    "phone": "7039550820",
+    "home_locality": "Jalahalli",
+    "past_roles": [
+      {
+        "title": "Godown helper",
+        "months": 30
+      }
+    ],
+    "expected_monthly_pay": "Rs. 15500",
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-27",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C072",
+    "name": "Vasanth Desai",
+    "phone": "7067577805",
+    "home_locality": "Singasandra",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C073",
+    "name": "Kishore Thomas",
+    "phone": "7078311606",
+    "home_locality": "Whitefield",
+    "past_roles": [
+      {
+        "title": "Packer",
+        "months": 20
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-22",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C074",
+    "name": "Zubair Thomas",
+    "phone": "7024503016",
+    "home_locality": "Begur",
+    "past_roles": [
+      {
+        "title": "Coffee maker",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": "15,500",
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-30",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C075",
+    "name": "Zubair Yadav",
+    "phone": "7044559740",
+    "home_locality": "Hoodi",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C076",
+    "name": "Bhavna  Lobo",
+    "phone": "07078910905",
+    "home_locality": "Kalyan Nagar",
+    "past_roles": [
+      {
+        "title": "Cafe staff",
+        "months": 29
+      }
+    ],
+    "expected_monthly_pay": "16500",
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-27",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C077",
+    "name": "Manoj Gowder",
+    "phone": "+91 70636 13312",
+    "home_locality": "HBR Layout",
+    "past_roles": [
+      {
+        "title": "Picker/Packer",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": "15.5k",
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C078",
+    "name": "Aarav Gowder",
+    "phone": "7027528726",
+    "home_locality": "Varthur",
+    "past_roles": [
+      {
+        "title": "Delivery Rider",
+        "months": 7
+      }
+    ],
+    "expected_monthly_pay": "18.5k",
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-21",
+    "education": "below_10",
+    "status": "available"
+  },
+  {
+    "id": "C079",
+    "name": "Irfan Pai",
+    "phone": "7056111589",
+    "home_locality": "Hoodi",
+    "past_roles": [
+      {
+        "title": "Housekeeping",
+        "months": 41
+      }
+    ],
+    "expected_monthly_pay": 14500,
+    "shifts_available": [
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "12th pass",
+    "status": "available"
+  },
+  {
+    "id": "C080",
+    "name": "Eshwar Desai",
+    "phone": "7045994093",
+    "home_locality": "Hulimavu",
+    "past_roles": [
+      {
+        "title": "Picker/Packer",
+        "months": 20
+      }
+    ],
+    "expected_monthly_pay": "17,000",
+    "shifts_available": [
+      "night",
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "diploma",
+    "status": "available"
+  },
+  {
+    "id": "C081",
+    "name": "Nandini Salian",
+    "phone": "7079865998",
+    "home_locality": "Mahadevapura",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C082",
+    "name": "Vasanth Yadav",
+    "phone": "7052656849",
+    "home_locality": "Yelahanka",
+    "past_roles": [
+      {
+        "title": "HK Attendant",
+        "months": 18
+      }
+    ],
+    "expected_monthly_pay": 13500,
+    "shifts_available": [
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-19",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C083",
+    "name": "Ganga Rai",
+    "phone": "7059148845",
+    "home_locality": "Marathahalli",
+    "past_roles": [
+      {
+        "title": "House keeping staff",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": 14500,
+    "shifts_available": [
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-30",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C084",
+    "name": "Gopal Lobo",
+    "phone": "7029255527",
+    "home_locality": "Nelamangala",
+    "past_roles": [
+      {
+        "title": "Picker",
+        "months": 36
+      },
+      {
+        "title": "Packer",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": "15,500",
+    "shifts_available": [
+      "night",
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C085",
+    "name": "Deepika Desai",
+    "phone": "7089062399",
+    "home_locality": "Hebbal",
+    "past_roles": [
+      {
+        "title": "Barista",
+        "months": 39
+      }
+    ],
+    "expected_monthly_pay": 15500,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-22",
+    "education": "below_10",
+    "status": "available"
+  },
+  {
+    "id": "C086",
+    "name": "Tarun Gowder",
+    "phone": "7091417320",
+    "home_locality": "Singasandra",
+    "past_roles": [
+      {
+        "title": "HK Attendant",
+        "months": 20
+      },
+      {
+        "title": "Packer",
+        "months": 17
+      }
+    ],
+    "expected_monthly_pay": 15500,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C087",
+    "name": "Manoj Pai",
+    "phone": "7092102572",
+    "home_locality": "Koramangala",
+    "past_roles": [
+      {
+        "title": "Delivery Partner",
+        "months": 4
+      }
+    ],
+    "expected_monthly_pay": "Rs. 21500",
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "iti",
+    "status": "deployed"
+  },
+  {
+    "id": "C088",
+    "name": "Anil Mendon",
+    "phone": "7085336401",
+    "home_locality": "Dasarahalli",
+    "past_roles": [
+      {
+        "title": "Picker",
+        "months": 17
+      }
+    ],
+    "expected_monthly_pay": "16,000",
+    "shifts_available": [
+      "evening",
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C089",
+    "name": "Latha Kamath",
+    "phone": "7042332421",
+    "home_locality": "Bommanahalli",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C090",
+    "name": "Pallavi Quadri",
+    "phone": "7011529160",
+    "home_locality": "Bommanahalli",
+    "past_roles": [
+      {
+        "title": "Guard",
+        "months": 30
+      }
+    ],
+    "expected_monthly_pay": "17000",
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "diploma",
+    "status": "offer_accepted"
+  },
+  {
+    "id": "C091",
+    "name": "Yamuna Chavan",
+    "phone": "7072205072",
+    "home_locality": "HBR Layout",
+    "past_roles": [
+      {
+        "title": "Watchman",
+        "months": 10
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "ITI",
+    "status": "available"
+  },
+  {
+    "id": "C092",
+    "name": "Hema Kamath",
+    "phone": "7053893672",
+    "home_locality": "Yeshwantpur",
+    "past_roles": [
+      {
+        "title": "HK Attendant",
+        "months": 33
+      }
+    ],
+    "expected_monthly_pay": 15000,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C093",
+    "name": "Wasim Wadiyar",
+    "phone": "7013798947",
+    "home_locality": "Banaswadi",
+    "past_roles": [
+      {
+        "title": "Coffee maker",
+        "months": 19
+      }
+    ],
+    "expected_monthly_pay": "Rs. 17000",
+    "shifts_available": [
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C094",
+    "name": "Kishore Jain",
+    "phone": "7093594248",
+    "home_locality": "Banaswadi",
+    "past_roles": [
+      {
+        "title": "Security Guard",
+        "months": 2
+      }
+    ],
+    "expected_monthly_pay": 19000,
+    "shifts_available": [
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C095",
+    "name": "Wasim Chavan",
+    "phone": "7076395419",
+    "home_locality": "Electronic City",
+    "past_roles": [
+      {
+        "title": "Bike delivery executive",
+        "months": 41
+      }
+    ],
+    "expected_monthly_pay": 21000,
+    "shifts_available": [
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C096",
+    "name": "Jaya Lobo",
+    "phone": "7075540675",
+    "home_locality": "Domlur",
+    "past_roles": [
+      {
+        "title": "Housekeeping",
+        "months": 3
+      },
+      {
+        "title": "Packer",
+        "months": 18
+      }
+    ],
+    "expected_monthly_pay": "15,500",
+    "shifts_available": [
+      "evening",
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-21",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C097",
+    "name": "Aarav Rai",
+    "phone": "7063854172",
+    "home_locality": "Bellandur",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 25
+      }
+    ],
+    "expected_monthly_pay": 15000,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-27",
+    "education": "PUC",
+    "status": "deployed"
+  },
+  {
+    "id": "C098",
+    "name": "Uma Urs",
+    "phone": "7073879958",
+    "home_locality": "Bommasandra",
+    "past_roles": [
+      {
+        "title": "Delivery boy",
+        "months": 13
+      }
+    ],
+    "expected_monthly_pay": 19000,
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-30",
+    "education": "diploma",
+    "status": "available"
+  },
+  {
+    "id": "C099",
+    "name": "Jaya Wadiyar",
+    "phone": "7026540483",
+    "home_locality": "Mahadevapura",
+    "past_roles": [
+      {
+        "title": "Picker",
+        "months": 6
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-19",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C100",
+    "name": "Omkar Bhat",
+    "phone": "7012915317",
+    "home_locality": "Rajaji Nagar",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 41
+      }
+    ],
+    "expected_monthly_pay": 18500,
+    "shifts_available": [
+      "evening",
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C101",
+    "name": "Omkar Kamath",
+    "phone": "7032594416",
+    "home_locality": "Bommasandra",
+    "past_roles": [
+      {
+        "title": "Reach truck operator",
+        "months": 40
+      }
+    ],
+    "expected_monthly_pay": 22000,
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C102",
+    "name": "Aarav Bhat",
+    "phone": "7085048842",
+    "home_locality": "Mahadevapura",
+    "past_roles": [
+      {
+        "title": "Coffee maker",
+        "months": 6
+      }
+    ],
+    "expected_monthly_pay": 19500,
+    "shifts_available": [
+      "night",
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "diploma",
+    "status": "available"
+  },
+  {
+    "id": "C103",
+    "name": "Raghu Wadiyar",
+    "phone": "7064988991",
+    "home_locality": "Marathahalli",
+    "past_roles": [
+      {
+        "title": "Picker",
+        "months": 35
+      }
+    ],
+    "expected_monthly_pay": 15500,
+    "shifts_available": [
+      "night",
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-30",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C104",
+    "name": "Raghu Kamath",
+    "phone": "7072143747",
+    "home_locality": "Hoodi",
+    "past_roles": [
+      {
+        "title": "Picker",
+        "months": 15
+      }
+    ],
+    "expected_monthly_pay": 18000,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "12th pass",
+    "status": "deployed"
+  },
+  {
+    "id": "C105",
+    "name": "Aarav Mendon",
+    "phone": "7061382379",
+    "home_locality": "Ejipura",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C106",
+    "name": "Hari Bhat",
+    "phone": "7027124039",
+    "home_locality": "Mahadevapura",
+    "past_roles": [
+      {
+        "title": "Godown helper",
+        "months": 38
+      }
+    ],
+    "expected_monthly_pay": "15000",
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-27",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C107",
+    "name": "Divakar Bhat",
+    "phone": "7020478103",
+    "home_locality": "Jalahalli",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C108",
+    "name": "Tarun Lobo",
+    "phone": "7096485433",
+    "home_locality": "Hebbal",
+    "past_roles": [
+      {
+        "title": "Delivery Rider",
+        "months": 31
+      }
+    ],
+    "expected_monthly_pay": 19000,
+    "shifts_available": [
+      "evening",
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "12th pass",
+    "status": "available"
+  },
+  {
+    "id": "C109",
+    "name": "Anil Desai",
+    "phone": "7034864932",
+    "home_locality": "Dasarahalli",
+    "past_roles": [
+      {
+        "title": "Barista",
+        "months": 25
+      },
+      {
+        "title": "House keeping staff",
+        "months": 13
+      }
+    ],
+    "expected_monthly_pay": "15000",
+    "shifts_available": [
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C110",
+    "name": "Jaya Wadiyar",
+    "phone": "7074816118",
+    "home_locality": "Peenya",
+    "past_roles": [
+      {
+        "title": "Delivery Rider",
+        "months": 30
+      }
+    ],
+    "expected_monthly_pay": "22.5k",
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-17",
+    "education": "ITI",
+    "status": "deployed"
+  },
+  {
+    "id": "C111",
+    "name": "Anil Wadiyar",
+    "phone": "7039298954",
+    "home_locality": "Begur",
+    "past_roles": [
+      {
+        "title": "Packaging staff",
+        "months": 26
+      }
+    ],
+    "expected_monthly_pay": "16,500",
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "12th pass",
+    "status": "available"
+  },
+  {
+    "id": "C112",
+    "name": "Gopal Desai",
+    "phone": "7045763098",
+    "home_locality": "Singasandra",
+    "past_roles": [
+      {
+        "title": "Picker/Packer",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": "18k",
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C113",
+    "name": "Aarav Vaz",
+    "phone": "7069652955",
+    "home_locality": "Rajajinagar",
+    "past_roles": [
+      {
+        "title": "Warehouse Picker",
+        "months": 27
+      }
+    ],
+    "expected_monthly_pay": 16000,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "10th",
+    "status": "not_reachable"
+  },
+  {
+    "id": "C114",
+    "name": "Hari Thomas",
+    "phone": "7071480303",
+    "home_locality": "Peenya",
+    "past_roles": [
+      {
+        "title": "Warehouse Picker",
+        "months": 17
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "12th pass",
+    "status": "available"
+  },
+  {
+    "id": "C115",
+    "name": "Deepika Alva",
+    "phone": "7064099053",
+    "home_locality": "Peenya",
+    "past_roles": [
+      {
+        "title": "Picker/Packer",
+        "months": 40
+      }
+    ],
+    "expected_monthly_pay": 15500,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-17",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C116",
+    "name": "Jaya Salian",
+    "phone": "7035186307",
+    "home_locality": "Bellandur",
+    "past_roles": [
+      {
+        "title": "Guard",
+        "months": 6
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "12th pass",
+    "status": "available"
+  },
+  {
+    "id": "C117",
+    "name": "Hari Salian",
+    "phone": "7038174073",
+    "home_locality": "Chandapura",
+    "past_roles": [
+      {
+        "title": "Rider",
+        "months": 37
+      }
+    ],
+    "expected_monthly_pay": 23000,
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-20",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C118",
+    "name": "Deepika Mendon",
+    "phone": "7078910905",
+    "home_locality": "Kalyan Nagar",
+    "past_roles": [
+      {
+        "title": "Cafe staff",
+        "months": 29
+      }
+    ],
+    "expected_monthly_pay": "16500",
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-27",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C119",
+    "name": "Savitha Wadiyar",
+    "phone": "7064983661",
+    "home_locality": "Mahadevapura",
+    "past_roles": [
+      {
+        "title": "Warehouse Picker",
+        "months": 2
+      }
+    ],
+    "expected_monthly_pay": 18500,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C120",
+    "name": "Tarun Salian",
+    "phone": "7073185648",
+    "home_locality": "Jayanagar",
+    "past_roles": [
+      {
+        "title": "Housekeeping",
+        "months": 40
+      }
+    ],
+    "expected_monthly_pay": 16500,
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "ITI",
+    "status": "available"
+  },
+  {
+    "id": "C121",
+    "name": "Tarun Yadav",
+    "phone": "7022751501",
+    "home_locality": "Brookefield",
+    "past_roles": [
+      {
+        "title": "Picker/Packer",
+        "months": 13
+      }
+    ],
+    "expected_monthly_pay": 19000,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C122",
+    "name": "Farida Lobo",
+    "phone": "7056628928",
+    "home_locality": "Hebbal",
+    "past_roles": [
+      {
+        "title": "House keeping staff",
+        "months": 30
+      },
+      {
+        "title": "Packing helper",
+        "months": 17
+      }
+    ],
+    "expected_monthly_pay": 13500,
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-22",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C123",
+    "name": "Manoj Vaz",
+    "phone": "7076195414",
+    "home_locality": "Chandapura",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 6
+      },
+      {
+        "title": "Housekeeping",
+        "months": 5
+      }
+    ],
+    "expected_monthly_pay": 18000,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C124",
+    "name": "Raghu Alva",
+    "phone": "7089971027",
+    "home_locality": "koramangala",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C125",
+    "name": "Irfan Mendon",
+    "phone": "7053633846",
+    "home_locality": "Singasandra",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C126",
+    "name": "Chetan Zaidi",
+    "phone": "7029510197",
+    "home_locality": "Domlur",
+    "past_roles": [
+      {
+        "title": "Godown helper",
+        "months": 12
+      }
+    ],
+    "expected_monthly_pay": 15000,
+    "shifts_available": [
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-22",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C127",
+    "name": "Jaya Urs",
+    "phone": "7041446260",
+    "home_locality": "Yelahanka",
+    "past_roles": [
+      {
+        "title": "Picker",
+        "months": 48
+      }
+    ],
+    "expected_monthly_pay": 18500,
+    "shifts_available": [
+      "evening",
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C128",
+    "name": "Zubair Salian",
+    "phone": "7058329025",
+    "home_locality": "HSR Layout",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C129",
+    "name": "Chetan Kamath",
+    "phone": "7083164356",
+    "home_locality": "Sarjapur Road",
+    "past_roles": [
+      {
+        "title": "Godown helper",
+        "months": 1
+      },
+      {
+        "title": "Delivery Partner",
+        "months": 15
+      }
+    ],
+    "expected_monthly_pay": 18000,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-30",
+    "education": "iti",
+    "status": "deployed"
+  },
+  {
+    "id": "C130",
+    "name": "Jaya Jain",
+    "phone": "7074515640",
+    "home_locality": "Bommasandra",
+    "past_roles": [
+      {
+        "title": "HK Attendant",
+        "months": 31
+      }
+    ],
+    "expected_monthly_pay": "16,000",
+    "shifts_available": [
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "below_10",
+    "status": "available"
+  },
+  {
+    "id": "C131",
+    "name": "Pallavi Nair",
+    "phone": "7092733156",
+    "home_locality": "Domlur",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C132",
+    "name": "Jaya Quadri",
+    "phone": "7045958274",
+    "home_locality": "Domlur",
+    "past_roles": [
+      {
+        "title": "Warehouse Picker",
+        "months": 38
+      },
+      {
+        "title": "Packaging staff",
+        "months": 14
+      }
+    ],
+    "expected_monthly_pay": 19000,
+    "shifts_available": [
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "ITI",
+    "status": "available"
+  },
+  {
+    "id": "C133",
+    "name": "Yamuna Vaz",
+    "phone": "7066966881",
+    "home_locality": "Dasarahalli",
+    "past_roles": [
+      {
+        "title": "Rider",
+        "months": 48
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C134",
+    "name": "Bindu Kamath",
+    "phone": "7080121102",
+    "home_locality": "Electronic City",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C135",
+    "name": "Hema Chavan",
+    "phone": "7081440325",
+    "home_locality": "Varthur",
+    "past_roles": [
+      {
+        "title": "Packing helper",
+        "months": 20
+      }
+    ],
+    "expected_monthly_pay": "Rs. 17000",
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C136",
+    "name": "Deepika Salian",
+    "phone": "7054289631",
+    "home_locality": "Domlur",
+    "past_roles": [
+      {
+        "title": "Security Guard",
+        "months": 46
+      }
+    ],
+    "expected_monthly_pay": 16500,
+    "shifts_available": [
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-21",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C137",
+    "name": "Kishore Zaidi",
+    "phone": "7054830558",
+    "home_locality": "Jayanagar",
+    "past_roles": [
+      {
+        "title": "Delivery boy",
+        "months": 37
+      }
+    ],
+    "expected_monthly_pay": 20000,
+    "shifts_available": [
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C138",
+    "name": "Bhavna Bhat",
+    "phone": "7077950690",
+    "home_locality": "Begur",
+    "past_roles": [
+      {
+        "title": "Reach truck operator",
+        "months": 31
+      }
+    ],
+    "expected_monthly_pay": 23000,
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C139",
+    "name": "Ganga Thomas",
+    "phone": "7020601584",
+    "home_locality": "Hulimavu",
+    "past_roles": [
+      {
+        "title": "Watchman",
+        "months": 33
+      }
+    ],
+    "expected_monthly_pay": "Rs. 17000",
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "diploma",
+    "status": "available"
+  },
+  {
+    "id": "C140",
+    "name": "Hema Quadri",
+    "phone": "7072251448",
+    "home_locality": "Krishnarajapuram",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C141",
+    "name": "Nandini Lobo",
+    "phone": "7018664330",
+    "home_locality": "JP Nagar 6th Phase",
+    "past_roles": [
+      {
+        "title": "Packing helper",
+        "months": 27
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C142",
+    "name": "Chetan Salian",
+    "phone": "7012387473",
+    "home_locality": "Indiranagar",
+    "past_roles": [
+      {
+        "title": "Guard",
+        "months": 30
+      }
+    ],
+    "expected_monthly_pay": "19k",
+    "shifts_available": [
+      "night",
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "12th",
+    "status": "not_reachable"
+  },
+  {
+    "id": "C143",
+    "name": "Divakar Chavan",
+    "phone": "7038141450",
+    "home_locality": "BTM 2nd Stage",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C144",
+    "name": "Kishore Bhat",
+    "phone": "7053311204",
+    "home_locality": "Attibele",
+    "past_roles": [
+      {
+        "title": "Forklift Operator",
+        "months": 22
+      }
+    ],
+    "expected_monthly_pay": 21500,
+    "shifts_available": [
+      "evening",
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "PUC",
+    "status": "offer_accepted"
+  },
+  {
+    "id": "C145",
+    "name": "Jaya Bhat",
+    "phone": "7078187209",
+    "home_locality": "Bommanhalli",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C146",
+    "name": "Tarun Vaz",
+    "phone": "7030914749",
+    "home_locality": "Bommasandra",
+    "past_roles": [
+      {
+        "title": "Security Guard",
+        "months": 48
+      }
+    ],
+    "expected_monthly_pay": "20k",
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C147",
+    "name": "Eshwar Wadiyar",
+    "phone": "7055803958",
+    "home_locality": "Chandapura",
+    "past_roles": [
+      {
+        "title": "Cleaner",
+        "months": 39
+      }
+    ],
+    "expected_monthly_pay": "14,000",
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "12th pass",
+    "status": "available"
+  },
+  {
+    "id": "C148",
+    "name": "Kishore Kamath",
+    "phone": "7044071544",
+    "home_locality": "Kormangala",
+    "past_roles": [
+      {
+        "title": "HK Attendant",
+        "months": 30
+      },
+      {
+        "title": "Cafe staff",
+        "months": 11
+      }
+    ],
+    "expected_monthly_pay": 15000,
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-27",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C149",
+    "name": "Divakar Kamath",
+    "phone": "7096382176",
+    "home_locality": "Banaswadi",
+    "past_roles": [
+      {
+        "title": "Cleaner",
+        "months": 44
+      },
+      {
+        "title": "Barista / Counter",
+        "months": 13
+      }
+    ],
+    "expected_monthly_pay": 16000,
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C150",
+    "name": "Manoj Alva",
+    "phone": "7065974034",
+    "home_locality": "Indiranagar",
+    "past_roles": [
+      {
+        "title": "Cafe staff",
+        "months": 10
+      }
+    ],
+    "expected_monthly_pay": 15500,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-23",
+    "education": "diploma",
+    "status": "available"
+  },
+  {
+    "id": "C151",
+    "name": "Raghu Gowder",
+    "phone": "7033400541",
+    "home_locality": "Mahadevapura",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C152",
+    "name": "Chetan Gowder",
+    "phone": "7085436113",
+    "home_locality": "Bellandur",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C153",
+    "name": "Charan Quadri",
+    "phone": "7069280182",
+    "home_locality": "Koramangala 5th Block",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 11
+      }
+    ],
+    "expected_monthly_pay": "Rs. 15500",
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "ITI",
+    "status": "deployed"
+  },
+  {
+    "id": "C154",
+    "name": "Hari Zaidi",
+    "phone": "7045382871",
+    "home_locality": "BTM",
+    "past_roles": [
+      {
+        "title": "Picker/Packer",
+        "months": 30
+      }
+    ],
+    "expected_monthly_pay": 18500,
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-21",
+    "education": "12th pass",
+    "status": "available"
+  },
+  {
+    "id": "C155",
+    "name": "Aarav Zaidi",
+    "phone": "7067887514",
+    "home_locality": "Yeshwanthpur",
+    "past_roles": [
+      {
+        "title": "Warehouse Picker",
+        "months": 21
+      }
+    ],
+    "expected_monthly_pay": 16000,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C156",
+    "name": "Wasim Nair",
+    "phone": "7091786246",
+    "home_locality": "Chandapura",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C157",
+    "name": "Bindu Vaz",
+    "phone": "7074773101",
+    "home_locality": "Peenya",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C158",
+    "name": "Hari Gowder",
+    "phone": "7086185409",
+    "home_locality": "Yelahanka",
+    "past_roles": [
+      {
+        "title": "Barista",
+        "months": 23
+      },
+      {
+        "title": "Bike delivery executive",
+        "months": 16
+      }
+    ],
+    "expected_monthly_pay": 16000,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-17",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C159",
+    "name": "Savitha Zaidi",
+    "phone": "7065649686",
+    "home_locality": "Marathahalli",
+    "past_roles": [
+      {
+        "title": "Delivery boy",
+        "months": 43
+      }
+    ],
+    "expected_monthly_pay": "21.5k",
+    "shifts_available": [
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C160",
+    "name": "Eshwar Kamath",
+    "phone": "7053621033",
+    "home_locality": "Chandapura",
+    "past_roles": [
+      {
+        "title": "Reach truck operator",
+        "months": 26
+      }
+    ],
+    "expected_monthly_pay": 21500,
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C161",
+    "name": "Nandini Wadiyar",
+    "phone": "7086043714",
+    "home_locality": "Hebbal",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 36
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-27",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C162",
+    "name": "Bhavna Zaidi",
+    "phone": "7045920556",
+    "home_locality": "Begur",
+    "past_roles": [
+      {
+        "title": "Picker/Packer",
+        "months": 24
+      }
+    ],
+    "expected_monthly_pay": "17,500",
+    "shifts_available": [
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "graduate",
+    "status": "deployed"
+  },
+  {
+    "id": "C163",
+    "name": "Pallavi Pai",
+    "phone": "7071355838",
+    "home_locality": "Jayanagar",
+    "past_roles": [
+      {
+        "title": "Watchman",
+        "months": 36
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-20",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C164",
+    "name": "Pallavi Desai",
+    "phone": "7055465791",
+    "home_locality": "Sarjapur Road",
+    "past_roles": [
+      {
+        "title": "Delivery Partner",
+        "months": 17
+      }
+    ],
+    "expected_monthly_pay": 20500,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C165",
+    "name": "Raghu Chavan",
+    "phone": "7084593523",
+    "home_locality": "Nelamangala",
+    "past_roles": [
+      {
+        "title": "Guard",
+        "months": 46
+      }
+    ],
+    "expected_monthly_pay": 18500,
+    "shifts_available": [
+      "morning",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C166",
+    "name": "Irfan Yadav",
+    "phone": "7022176004",
+    "home_locality": "Kalyan Nagar",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C167",
+    "name": "Raghu Salian",
+    "phone": "7038835830",
+    "home_locality": "Jalahalli",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C168",
+    "name": "Kishore Quadri",
+    "phone": "7055581583",
+    "home_locality": "HSR Layout Sector 2",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C169",
+    "name": "Deepika Alva",
+    "phone": "7054529634",
+    "home_locality": "Marathahalli",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 30
+      },
+      {
+        "title": "Packaging staff",
+        "months": 4
+      }
+    ],
+    "expected_monthly_pay": 16000,
+    "shifts_available": [
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "below_10",
+    "status": "available"
+  },
+  {
+    "id": "C170",
+    "name": "Kishore Chavan",
+    "phone": "7033215571",
+    "home_locality": "Rajajinagar",
+    "past_roles": [
+      {
+        "title": "Delivery Partner",
+        "months": 39
+      }
+    ],
+    "expected_monthly_pay": 20500,
+    "shifts_available": [
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-29",
+    "education": "below_10",
+    "status": "available"
+  },
+  {
+    "id": "C171",
+    "name": "Raghu Nair",
+    "phone": "7098658609",
+    "home_locality": "Banaswadi",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C172",
+    "name": "Yamuna Pai",
+    "phone": "7089170107",
+    "home_locality": "Marathalli",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 24
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C173",
+    "name": "Uma Alva",
+    "phone": "7057266174",
+    "home_locality": "HSR Layout",
+    "past_roles": [
+      {
+        "title": "Delivery boy",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": "Rs. 23000",
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-22",
+    "education": "12th pass",
+    "status": "available"
+  },
+  {
+    "id": "C174",
+    "name": "Eshwar Yadav",
+    "phone": "7087705543",
+    "home_locality": "Hebbal",
+    "past_roles": [
+      {
+        "title": "Bike delivery executive",
+        "months": 1
+      }
+    ],
+    "expected_monthly_pay": 22000,
+    "shifts_available": [
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "ITI",
+    "status": "available"
+  },
+  {
+    "id": "C175",
+    "name": "Anil Urs",
+    "phone": "7017272944",
+    "home_locality": "BTM",
+    "past_roles": [
+      {
+        "title": "Packer",
+        "months": 4
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C176",
+    "name": "Savitha Yadav",
+    "phone": "7030720337",
+    "home_locality": "Bellandur",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 9
+      }
+    ],
+    "expected_monthly_pay": 16500,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C177",
+    "name": "Tarun Quadri",
+    "phone": "7059584636",
+    "home_locality": "Kalyan Nagar",
+    "past_roles": [
+      {
+        "title": "Security",
+        "months": 1
+      },
+      {
+        "title": "Cleaner",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": "20,000",
+    "shifts_available": [
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "diploma",
+    "status": "available"
+  },
+  {
+    "id": "C178",
+    "name": "Latha Jain",
+    "phone": "7078401935",
+    "home_locality": "JP Nagar 6th Phase",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C179",
+    "name": "Deepika Quadri",
+    "phone": "7072561166",
+    "home_locality": "Domlur",
+    "past_roles": [
+      {
+        "title": "HK Attendant",
+        "months": 12
+      }
+    ],
+    "expected_monthly_pay": 15000,
+    "shifts_available": [
+      "night",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-18",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C180",
+    "name": "Farida Vaz",
+    "phone": "7052672583",
+    "home_locality": "Electronic City",
+    "past_roles": [],
+    "expected_monthly_pay": null,
+    "shifts_available": [],
+    "earliest_joining_date": null,
+    "education": null,
+    "status": "available"
+  },
+  {
+    "id": "C181",
+    "name": "Deepika Alva",
+    "phone": "7094985580",
+    "home_locality": "HSR Layout",
+    "past_roles": [
+      {
+        "title": "Warehouse Associate",
+        "months": 9
+      },
+      {
+        "title": "Barista",
+        "months": 9
+      }
+    ],
+    "expected_monthly_pay": 16500,
+    "shifts_available": [
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "SSLC",
+    "status": "available"
+  },
+  {
+    "id": "C182",
+    "name": "Anil Kamath",
+    "phone": "7032921388",
+    "home_locality": "Peenya Industrial Area",
+    "past_roles": [
+      {
+        "title": "Security",
+        "months": 40
+      }
+    ],
+    "expected_monthly_pay": "17k",
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C183",
+    "name": "Gopal Chavan",
+    "phone": "7094579966",
+    "home_locality": "Indiranagar",
+    "past_roles": [
+      {
+        "title": "Security Guard",
+        "months": 44
+      },
+      {
+        "title": "Packing helper",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": 16500,
+    "shifts_available": [
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-21",
+    "education": "ITI",
+    "status": "deployed"
+  },
+  {
+    "id": "C184",
+    "name": "Aarav Urs",
+    "phone": "7014927865",
+    "home_locality": "Sarjapur Road",
+    "past_roles": [
+      {
+        "title": "HK Attendant",
+        "months": 10
+      }
+    ],
+    "expected_monthly_pay": 14500,
+    "shifts_available": [
+      "evening",
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C185",
+    "name": "Chetan Jain",
+    "phone": "7038081599",
+    "home_locality": "Hebbal",
+    "past_roles": [
+      {
+        "title": "Watchman",
+        "months": 43
+      },
+      {
+        "title": "Cleaner",
+        "months": 12
+      }
+    ],
+    "expected_monthly_pay": 19000,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-22",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C186",
+    "name": "Yamuna Salian",
+    "phone": "7099607543",
+    "home_locality": "K R Puram",
+    "past_roles": [
+      {
+        "title": "Rider",
+        "months": 29
+      }
+    ],
+    "expected_monthly_pay": 23000,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "12th",
+    "status": "available"
+  },
+  {
+    "id": "C187",
+    "name": "Tarun Pai",
+    "phone": "7083850935",
+    "home_locality": "Yeshwanthpur",
+    "past_roles": [
+      {
+        "title": "Cafe staff",
+        "months": 48
+      },
+      {
+        "title": "Warehouse Associate",
+        "months": 2
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-19",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C188",
+    "name": "Bindu Alva",
+    "phone": "7080034919",
+    "home_locality": "Bommasandra",
+    "past_roles": [
+      {
+        "title": "Barista / Counter",
+        "months": 36
+      }
+    ],
+    "expected_monthly_pay": 15000,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-19",
+    "education": "ITI",
+    "status": "available"
+  },
+  {
+    "id": "C189",
+    "name": "Pallavi Salian",
+    "phone": "7011411355",
+    "home_locality": "Ejipura",
+    "past_roles": [
+      {
+        "title": "Bike delivery executive",
+        "months": 10
+      }
+    ],
+    "expected_monthly_pay": 21500,
+    "shifts_available": [
+      "night",
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-30",
+    "education": "iti",
+    "status": "available"
+  },
+  {
+    "id": "C190",
+    "name": "Kishore Alva",
+    "phone": "7098739352",
+    "home_locality": "Dasarahalli",
+    "past_roles": [
+      {
+        "title": "Packer",
+        "months": 13
+      }
+    ],
+    "expected_monthly_pay": "16.5k",
+    "shifts_available": [
+      "morning",
+      "night",
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-28",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C191",
+    "name": "Gopal Jain",
+    "phone": "7098187901",
+    "home_locality": "Yelahanka",
+    "past_roles": [
+      {
+        "title": "Barista",
+        "months": 38
+      }
+    ],
+    "expected_monthly_pay": 16500,
+    "shifts_available": [
+      "morning",
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C192",
+    "name": "Latha Bhat",
+    "phone": "7015032570",
+    "home_locality": "Begur",
+    "past_roles": [
+      {
+        "title": "Delivery Partner",
+        "months": 48
+      }
+    ],
+    "expected_monthly_pay": "20,000",
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-26",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C193",
+    "name": "Bindu Wadiyar",
+    "phone": "7082338150",
+    "home_locality": "Yelahanka",
+    "past_roles": [
+      {
+        "title": "Security",
+        "months": 47
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-25",
+    "education": "SSLC",
+    "status": "deployed"
+  },
+  {
+    "id": "C194",
+    "name": "Yamuna Pai",
+    "phone": "7046726640",
+    "home_locality": "Bannerghatta Road",
+    "past_roles": [
+      {
+        "title": "Packer",
+        "months": 39
+      }
+    ],
+    "expected_monthly_pay": 15500,
+    "shifts_available": [
+      "morning",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-16",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C195",
+    "name": "Pallavi Mendon",
+    "phone": "7088080251",
+    "home_locality": "Jalahalli",
+    "past_roles": [
+      {
+        "title": "Packer",
+        "months": 18
+      },
+      {
+        "title": "Barista",
+        "months": 6
+      }
+    ],
+    "expected_monthly_pay": 17000,
+    "shifts_available": [
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-19",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C196",
+    "name": "Divakar Vaz",
+    "phone": "7063677153",
+    "home_locality": "Electronic City",
+    "past_roles": [
+      {
+        "title": "Packing helper",
+        "months": 2
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "evening"
+    ],
+    "earliest_joining_date": "2026-11-21",
+    "education": "10th",
+    "status": "available"
+  },
+  {
+    "id": "C197",
+    "name": "Deepika Jain",
+    "phone": "7098674504",
+    "home_locality": "Hulimavu",
+    "past_roles": [
+      {
+        "title": "Delivery Partner",
+        "months": 16
+      },
+      {
+        "title": "Picker/Packer",
+        "months": 13
+      }
+    ],
+    "expected_monthly_pay": 17500,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-22",
+    "education": "graduate",
+    "status": "available"
+  },
+  {
+    "id": "C198",
+    "name": "Anil Jain",
+    "phone": "7061221192",
+    "home_locality": "Koramangala",
+    "past_roles": [
+      {
+        "title": "Warehouse Picker",
+        "months": 22
+      },
+      {
+        "title": "Delivery Partner",
+        "months": 3
+      }
+    ],
+    "expected_monthly_pay": 15500,
+    "shifts_available": [
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-30",
+    "education": "10th pass",
+    "status": "available"
+  },
+  {
+    "id": "C199",
+    "name": "Tarun Urs",
+    "phone": "7083338071",
+    "home_locality": "Bommasandra",
+    "past_roles": [
+      {
+        "title": "Delivery Rider",
+        "months": 11
+      }
+    ],
+    "expected_monthly_pay": "18k",
+    "shifts_available": [
+      "evening",
+      "morning"
+    ],
+    "earliest_joining_date": "2026-11-19",
+    "education": "PUC",
+    "status": "available"
+  },
+  {
+    "id": "C200",
+    "name": "Zubair Vaz",
+    "phone": "7051533423",
+    "home_locality": "Dasarahalli",
+    "past_roles": [
+      {
+        "title": "Security",
+        "months": 31
+      }
+    ],
+    "expected_monthly_pay": "17500",
+    "shifts_available": [
+      "evening",
+      "night"
+    ],
+    "earliest_joining_date": "2026-11-24",
+    "education": "graduate",
+    "status": "available"
+  }
+]

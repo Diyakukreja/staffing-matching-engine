@@ -1,0 +1,9 @@
+# private / real candidate data never leaves the machine
+data/private/
+*.db
+*.sqlite*
+.streamlit/secrets.toml
+.env
+__pycache__/
+.pytest_cache/
+.venv/
